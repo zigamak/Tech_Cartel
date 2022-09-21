@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 import {SignIn, SignUp, Home, ComingSoon, ForgotPassword} from "./pages";
+=======
+import {SignUp, Home} from "./Pages";
+
+>>>>>>> 2112e1a53597f97776bbd78ea36a14ef3982cc72
 import {
   BrowserRouter as Router,
   Routes,
